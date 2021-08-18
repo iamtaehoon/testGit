@@ -14,7 +14,8 @@
 
 
 # 프로토타입 아키텍쳐
-<img width="766" alt="스크린샷 2021-08-13 오후 2 38 27" src="https://user-images.githubusercontent.com/67636607/129961662-f844268d-2ce2-4d07-a058-832f0350d9a3.png">  
+<img width="766" alt="스크린샷 2021-08-13 오후 2 38 27" src="https://user-images.githubusercontent.com/67636607/129961662-f844268d-2ce2-4d07-a058-832f0350d9a3.png">
+
 # 일정 관리
 
 ## 8/10
