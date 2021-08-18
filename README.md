@@ -10,7 +10,9 @@
 ![에델바이스_농담_메인판넬](https://user-images.githubusercontent.com/67636607/129957585-4226718e-74d0-4d67-aa5b-54ac864fbeac.jpg)
 
 # 동영상
-[농담 서비스 시연 동영상](https://www.youtube.com/watch?v=pnP7BIfxNXg){: target="_blank"}
+[농담 서비스 시연 동영상](https://www.youtube.com/watch?v=pnP7BIfxNXg){:target="_blank"}
+
+[새 탭에서 열기](https://www.google.com/){:target="_blank"}
 
 # 일정 관리
 
